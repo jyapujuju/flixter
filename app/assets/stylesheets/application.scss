@@ -15,10 +15,10 @@
  *= require_self
  */
  @import "bootstrap";
- @import "static_pages.scss"
+ @import "static_pages.scss";
  .booyah-box {
-   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
-   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+   -moz-box-shadow: 1px 1px 2px 0px #d0d0d0;
+   -webkit-box-shadow: 1px 1px 2px 0px #d0d0d0;
    box-shadow: 1px 1px 2px 0 #d0d0d0;
    background: #fff;
    border: 1px solid #ccc;
